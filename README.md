@@ -1,6 +1,6 @@
 # Стиль Zotero для журнала "Генетика"
 
-info (at 2022) - [![Badge](https://img.shields.io/static/v1?label=Russian_Journal_of_Genetics&message=Q4&color=blueviolet?style=for-the-badge&logo=scopus)](https://www.springer.com/journal/11177)
+about journal (at 2022) - [![Badge](https://img.shields.io/static/v1?label=Russian_Journal_of_Genetics&message=Q4&color=blueviolet?style=for-the-badge&logo=scopus)](https://www.springer.com/journal/11177)
 
 #### Что в этом репозитории?
 Здесь находится стиль библиографии для Zotero (Juris-M), который соответствует требованиям журнала "Генетика". 
