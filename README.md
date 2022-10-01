@@ -1,6 +1,7 @@
 # Стиль Zotero для журнала "Генетика"
-
+<div id="header" align="center">
 <a href="https://www.scimagojr.com/journalsearch.php?q=19021&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19021" alt="SCImago Journal &amp; Country Rank"  /></a>
+</div>
 
 #### Что в этом репозитории?
 Здесь находится стиль библиографии для Zotero (Juris-M), который соответствует требованиям журнала "Генетика". 
