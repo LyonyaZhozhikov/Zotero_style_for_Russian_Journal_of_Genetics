@@ -1,6 +1,6 @@
 # Стиль Zotero для журнала "Генетика"
 
-about journal (at 2022) - [![Badge](https://img.shields.io/static/v1?label=Russian_Journal_of_Genetics&message=Q4&color=blueviolet?style=for-the-badge&logo=scopus)](https://www.springer.com/journal/11177)
+<a href="https://www.scimagojr.com/journalsearch.php?q=19021&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19021" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 #### Что в этом репозитории?
 Здесь находится стиль библиографии для Zotero (Juris-M), который соответствует требованиям журнала "Генетика". 
