@@ -67,6 +67,6 @@ default-locale="ru-RU"
 <a href="https://sciencejournals.ru/view-article/?j=genrus&y=2023&v=59&n=4&a=GenRus2304012Zhozhikov"><img src="https://shields.io/badge/Генетика-ScienceJournals-green?logo=#E9711C&Clinical%20genetics=Wiley" alt="ARTICLE"/></a>
 
 ##### 
-<a href="https://www.elibrary.ru/item.asp?id=50461643"><img src="https://shields.io/badge/Статья-eLibrary-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
+<a href="https://github.com/LyonyaZhozhikov/Zotero_style_for_Russian_Journal_of_Genetics/blob/main/data/GEN0371.pdf"><img src="https://shields.io/badge/Статья-VersionOfRecord-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
 
 </div>
