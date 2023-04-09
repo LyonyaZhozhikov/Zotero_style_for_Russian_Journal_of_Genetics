@@ -64,9 +64,9 @@ default-locale="ru-RU"
 #### Научная статья, использовавшая данный стиль, издана в:
 
 ##### 
-<a href="https://sciencejournals.ru/view-article/?j=genrus&y=2023&v=59&n=4&a=GenRus2304012Zhozhikov"><img src="https://shields.io/badge/Генетика-Академкнига-green?logo=#E9711C&Clinical%20genetics=Wiley" alt="ARTICLE"/></a>
+<a href="https://sciencejournals.ru/view-article/?j=genrus&y=2023&v=59&n=4&a=GenRus2304012Zhozhikov"><img src="https://shields.io/badge/Генетика-ScienceJournals-green?logo=#E9711C&Clinical%20genetics=Wiley" alt="ARTICLE"/></a>
 
 ##### 
-<a href="https://www.elibrary.ru/item.asp?id=50461643"><img src="https://shields.io/badge/elibrary-Article-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
+<a href="https://www.elibrary.ru/item.asp?id=50461643"><img src="https://shields.io/badge/Статья-eLibrary-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
 
 </div>
