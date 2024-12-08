@@ -1,7 +1,4 @@
 # Стиль Zotero для журнала "Генетика"
-<div id="header" align="center">
-<a href="https://www.scimagojr.com/journalsearch.php?q=19021&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19021" alt="SCImago Journal &amp; Country Rank"  /></a>
-</div>
 
 #### Что в этом репозитории?
 Здесь находится стиль библиографии для Zotero (Juris-M), который соответствует требованиям журнала "Генетика". 
@@ -59,14 +56,36 @@ default-locale="ru-RU"
 ```
 
 ---
-<div id="header" align="right">
+<div id="header" align="center">
 
 #### Научная статья, использовавшая данный стиль, издана в:
 
 ##### 
-<a href="https://sciencejournals.ru/view-article/?j=genrus&y=2023&v=59&n=4&a=GenRus2304012Zhozhikov"><img src="https://shields.io/badge/Генетика-ScienceJournals-green?logo=#E9711C&Clinical%20genetics=Wiley" alt="ARTICLE"/></a>
+<a href="https://sciencejournals.ru/list-issues/genrus/"><img src="https://shields.io/badge/Генетика-Научные%20Журналы-green?logo=#E9711C&Генетика=Научные%20Журналы" alt="ARTICLE"/></a>
+<a href="https://link.springer.com/journal/11177"><img src="https://shields.io/badge/Russian%20Journal%20of%20Genetics%20-Springer%20Nature-green?logo=#E9711C&Russian%20Journal%20of%20Genetics%20=Springer%20Nature" alt="ARTICLE"/></a>
 
-##### 
-<a href="https://github.com/LyonyaZhozhikov/Zotero_style_for_Russian_Journal_of_Genetics/blob/main/data/GEN0371.pdf"><img src="https://shields.io/badge/Статья-VersionOfRecord-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
+#####    
+<a href="https://sciencejournals.ru/view-article/?j=genrus&y=2023&v=59&n=4&a=GenRus2304012Zhozhikov"><img src="https://shields.io/badge/Русская%20версия-Статья-green?logo=#E9711C&Русская%20версия=Статья" alt="FullAccess"/></a>
+<a href="https://link.springer.com/article/10.1134/S1022795423040117"><img src="https://shields.io/badge/English%20version-Article-green?logo=#E9711C&English%20version=Article" alt="FullAccess"/></a>
+
+<table align="center">
+  <tr>
+    <td align="left" style="width: 50%;">
+      <a href="https://www.scimagojr.com/journalsearch.php?q=19021&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank">
+        <img src="https://www.scimagojr.com/journal_img.php?id=19021" alt="SCImago Journal &amp; Country Rank" />
+      </a>
+    </td>
+    <td align="right" style="width: 50%;">
+      <a href="https://wos-journal.info/journalid/1786" title="WOS-Journal.info">
+        <img src="https://wos-journal.info/journalide/1786" width="320" height="120" alt="WOS-Journal.info" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+Пожалуйста, также посетите мою страницу ResearchGate для получения полных текстов и другой информации: <a href="https://www.researchgate.net/profile/Leonid-Zhozhikov-3"><img src="https://shields.io/badge/ResearchGate-Страница-green?logo=#E9711C&ResearchGate=Страница" alt="Page"/></a>
+
+Please, also check my ResearchGate page for full texts and more: <a href="https://www.researchgate.net/profile/Leonid-Zhozhikov-3"><img src="https://shields.io/badge/ResearchGate-Page-green?logo=#E9711C&ResearchGate=Page" alt="Page"/></a>
+
